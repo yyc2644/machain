@@ -1,5 +1,47 @@
+<<<<<<< HEAD
 #助记词,私钥,地址的明文
 btc_test1:
 - choice love veteran armor apart slot ring bomb crop modify shine mouse width foot bundle loyal three winter
 - cQQpY4ToULvAkXzqEKfWASMqu1SxbwkD67E1djtBKhudAUPdUPYD
 - mnFzFzcfPMTTDzJLoFbGDqv5xk7Gto5xDk
+=======
+btctest1:
+ Mnemonic: choice love veteran armor apart slot ring bomb crop modify shine mouse width foot bundle loyal three winter
+ PrivateKey: cQQpY4ToULvAkXzqEKfWASMqu1SxbwkD67E1djtBKhudAUPdUPYD
+ Address: mnFzFzcfPMTTDzJLoFbGDqv5xk7Gto5xDk
+
+btctest2:
+ Mnemonic: leave link task cute long thing recycle patrol donkey december benefit still keen agree basket check march truly
+ PrivateKey: L12v42hHCR5o1VQbX8tYbApUBJ2BK5Yz85X7YcGUUDmms5xFGfci
+ Address: n3fdiuWhbbhRLF9eCFYpAA8bYHmEagEcK1
+
+btctest3:
+ Mnemonic: raise solid piano nasty digital swamp stem hood pass load human mimic demise daughter drink black radio fantasy
+ PrivateKey: 1
+ Address: muwyWU9bWajzgLSXps2fkjWcpj8SsJkQLt
+
+btctest4:
+ Mnemonic: test increase pink dumb attend intact magic inform situate occur total disease tennis aunt mushroom order monitor clinic
+ PrivateKey: 1
+ Address: tb1qkk06pl0aqephr22dy2ve5d7u9r64yajt25vfhg
+
+ethtest1:
+ Mnemonic: tcloud soccer scan rigid room blind need curtain hello nature better tree equip clown tower ecology afraid level
+ PrivateKey: f591d295984e4452f81f7dc5874bf48f9ff2aeea4e89bee9ef98ee6ddefaa1de
+ Address: '0xC60B43EcbaD3D4b1E8b3b074858762D5bB33482B'
+
+ethtest2:
+ Mnemonic: depend album thank wine service tongue lens crater leaf tray laundry festival fee million stand top merge oven
+ PrivateKey: f591d295984e4452f81f7dc5874bf48f9ff2aeea4e89bee9ef98ee6ddefaa1de
+ Address: '0x250e23fCF95828fFF752f1FD25ADc203379E75c0'
+
+ethtest3:
+ Mnemonic: hair butter volcano flight combine unlock wrap boy myself oppose glove flee worry whip squirrel voyage found episode
+ PrivateKey: 0afebefa4565d976ee834cd218edc4df0bbd30cc0efbe45432798ff709e528cf
+ Address: '0xCE8C36528cB0063b5C6b72C0d2fe4d0340424049'
+
+ethtest4:
+ Mnemonic: hair butter volcano flight combine unlock wrap boy myself oppose glove flee worry whip squirrel voyage found episode
+ PrivateKey: 0afebefa4565d976ee834cd218edc4df0bbd30cc0efbe45432798ff709e528cf
+ Address: '0xCE8C36528cB0063b5C6b72C0d2fe4d0340424049'
+>>>>>>> 472ebbbda128ed0a30a230c9e429a7226467ceaf
