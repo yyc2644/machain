@@ -1,2 +1,7 @@
 #encoding utf-8
-from selenium import webdriver
+import yaml
+
+f = open(r'/Users/yangyicheng/Documents/GitHub/machain/test/qrcode.yaml')
+y = yaml.load(f)
+
+print(type(y))
