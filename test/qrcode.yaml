@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-#助记词,私钥,地址的明文
-btc_test1:
-- choice love veteran armor apart slot ring bomb crop modify shine mouse width foot bundle loyal three winter
-- cQQpY4ToULvAkXzqEKfWASMqu1SxbwkD67E1djtBKhudAUPdUPYD
-- mnFzFzcfPMTTDzJLoFbGDqv5xk7Gto5xDk
-=======
 btctest1:
  Mnemonic: choice love veteran armor apart slot ring bomb crop modify shine mouse width foot bundle loyal three winter
  PrivateKey: cQQpY4ToULvAkXzqEKfWASMqu1SxbwkD67E1djtBKhudAUPdUPYD
@@ -44,4 +37,3 @@ ethtest4:
  Mnemonic: hair butter volcano flight combine unlock wrap boy myself oppose glove flee worry whip squirrel voyage found episode
  PrivateKey: 0afebefa4565d976ee834cd218edc4df0bbd30cc0efbe45432798ff709e528cf
  Address: '0xCE8C36528cB0063b5C6b72C0d2fe4d0340424049'
->>>>>>> 472ebbbda128ed0a30a230c9e429a7226467ceaf
